@@ -2,6 +2,8 @@
 
 A simple web-based alarm application with the ability to add alarms and customize notification sounds.
 
+![Screenshot](screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
